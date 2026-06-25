@@ -1,3 +1,5 @@
+> Originally built by [Zubair Trabzada](https://github.com/zubair-trabzada/ai-marketing-claude); forked and customized here.
+
 <p align="center">
   <img src="banner.svg" alt="AI Marketing Suite for Claude Code" width="100%">
 </p>
